@@ -1,0 +1,63 @@
+.head{
+    background: rgba(111, 161, 16, 0.767);
+    border: solid grey;
+    width: auto;
+    height: 100px;
+}
+
+.logo{
+    position: absolute;
+    right: 50%;
+}
+
+.title{
+    position: absolute;
+    font-size: 50px;
+    left: 100px;
+    top: 30px;
+}
+
+.person{
+    position: absolute;
+    right: 5%;
+    top: 30px;
+}
+
+.favorite{
+    position: absolute;
+    right: 13%;
+    top: 29px;
+}
+
+.catalog{
+    position: absolute;
+    right: 21%;
+    top: 30px;
+}
+
+.nosachtext{
+    position: absolute;
+    top: 250px;
+    left: 50px;
+    font-size: 25px;
+}
+
+.nosachimg{
+    position: absolute;
+    top: 200px;
+    right: 5%;
+}
+
+.endpage{
+    background: rgba(111, 161, 16, 0.767);
+    border: solid grey;
+    width: auto;
+    height: 100px;
+    margin: 495px 0 0 0;
+}
+
+.endtext{
+    position: absolute;
+    left: 50px;
+    bottom: 30px;
+}
